@@ -28,7 +28,7 @@
   min-height: 376px;
   width: 598px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.15);
-  margin: -260px auto 0;
+  margin: -260px auto 60px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -42,12 +42,6 @@
   letter-spacing: 1px;
   text-transform: none;
   margin: 0 1px;
-}
-
-.u-section-1 .u-image-2 {
-  width: 48px;
-  height: 48px;
-  margin: 124px auto 24px 0;
 }
 
 @media (max-width: 1199px) {
